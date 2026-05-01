@@ -1,0 +1,11 @@
+{
+  "settings": {
+    "githubToken": "",
+    "openaiKey": "",
+    "anthropicKey": "",
+    "githubUser": "",
+    "monthlyBudget": 1200
+  },
+  "subscriptions": [],
+  "usageRecords": []
+}
